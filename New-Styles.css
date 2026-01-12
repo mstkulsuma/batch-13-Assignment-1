@@ -141,8 +141,9 @@ nav a{
     align-items: center;
     justify-content: flex-start;
     gap: 30px;
-    padding: 100px;
+    padding: 80px;
     background-color: #FFFFFF;
+    border: 5px solid #a0eabf;
 }
 .solution-card{
     display: flex;
